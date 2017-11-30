@@ -4,7 +4,8 @@
   "description": "input user as first argument and password as second and get the Authorization header value",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "patch-release": "npm version patch && git push --follow-tags && npm publish"
   },
   "bin": {
     "basic-auth": "./index.js"

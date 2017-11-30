@@ -3,7 +3,7 @@
 ## Install
 
 ```zsh
-npm install -g basic-auth
+npm install -g basichttpauthconverter
 ```
 
 ## Use
