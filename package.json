@@ -1,6 +1,6 @@
 {
   "name": "basichttpauthconverter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "input user as first argument and password as second and get the Authorization header value",
   "main": "index.js",
   "scripts": {
